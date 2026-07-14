@@ -169,30 +169,6 @@ This dashboard answers key business questions, including:
 - Data Visualization
 - Data Storytelling
 
-# Repository Structure
-
-```
-AdventureWorks-Sales-Analysis-Dashboard
-│
-├── Dashboard Screenshots
-│   ├── Sales Dashboard.png
-│   ├── Territory Dashboard.png
-│   ├── Product Dashboard.png
-│   ├── Salesperson Dashboard.png
-│   └── Trends Dashboard.png
-│
-├── Dataset
-│
-├── Power BI
-│   └── AdventureWorks.pbix
-│
-├── Report
-│   └── AdventureWorks_Analysis.pdf
-│
-└── README.md
-```
-
----
 
 # Full Report
 
@@ -200,11 +176,11 @@ You can read the complete business analysis report here:
 
  [AdventureWorks Business Analysis Report](Report/AdventureWorks_Analysis.pdf)
 
----
 
 # Author
 
 **Omotola Amuda**
 
 - GitHub: https://github.com/omotolaamuda-DA
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn:(https://www.linkedin.com/in/omotolaamuda?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Gmail: [omotolaamuda@gmail.com](url)
