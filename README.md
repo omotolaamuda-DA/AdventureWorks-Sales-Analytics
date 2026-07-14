@@ -11,9 +11,13 @@ The objective is to transform raw transactional data into actionable business in
 This project answers questions such as:
 
 Which territories generate the highest revenue?
+
 Which products contribute the most sales?
+
 How has revenue changed over time?
+
 Which sales representatives outperform their quotas?
+
 Which sales channels perform best?
 
 
