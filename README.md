@@ -2,189 +2,209 @@
 
 ## Project Overview
 
-This project analyzes the AdventureWorks Cycles sales database using Microsoft Power BI to identify revenue trends, territory performance, product performance, and salesperson effectiveness.
+This project presents a comprehensive sales analysis of the **AdventureWorks Cycles** business using **Microsoft Power BI**. The dashboard transforms raw sales data into interactive visualizations that provide actionable insights into sales performance, regional performance, product performance, customer purchasing trends, and salesperson effectiveness.
 
-The objective is to transform raw transactional data into actionable business insights that support strategic decision-making.
-
-## Business Questions
-
-This project answers questions such as:
-
-Which territories generate the highest revenue?
-
-Which products contribute the most sales?
-
-How has revenue changed over time?
-
-Which sales representatives outperform their quotas?
-
-Which sales channels perform best?
+The goal is to support data-driven business decisions by uncovering revenue patterns, identifying top-performing regions and products, and highlighting opportunities for business growth.
 
 
-## Tools Used
-Microsoft Power BI
+## Business Objectives
 
-Power Query
+This dashboard answers key business questions, including:
 
-DAX
+- Which territories generate the highest revenue?
+- Which product categories contribute the most sales?
+- How has revenue changed over time?
+- Which sales representatives exceed their sales quotas?
+- Which sales channels perform best?
+- What opportunities exist for increasing revenue?
 
-Data Modeling
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Microsoft Excel
+- Data Visualization
+
 
 ## Dataset
 
-AdventureWorks Cycles Sample Database
+**Dataset:** AdventureWorks Cycles Sample Database
 
 **Analysis Period:**
+- May 2011 – June 2014
+- 
 
-May 2011 – June 2014
+# Dashboard Overview
 
-## Dashboard Overview
+## Sales Analytics Dashboard
 
-### Sales Analytics
+### Dashboard Preview
 
-### Features
+![Sales Dashboard](Dashboard%20Screenshots/Sales%20Dashboard.png)
 
-Total Revenue
+### KPIs
 
-Total Orders
+| Metric | Value |
+|---------|-------|
+| Total Revenue | $123.22M |
+| Total Orders | 31K |
+| Total Quantity Sold | 275K |
+| Average Order Value | $3.92K |
 
-Total Quantity Sold
+### Insights
 
-Average Order Value
+- Revenue reached over **$123 Million**.
+- More than **31,000 orders** were processed.
+- Average order value was approximately **$3,916**.
+- Online orders represented the majority of transactions.
 
-Monthly Revenue Trend
-
-Online vs Sales Representative Orders
-
-## Key KPIs include:
-
-Revenue: **$123.22M**
-
-Orders: **31K**
-
-Quantity Sold: **275K**
-
-Average Order Value: **$3.92K**
-
-(Add screenshot here)
 
 ## Territory Analysis
 
-### Visualizations include:
+### Dashboard Preview
 
-Revenue by Country
+![Territory Dashboard](Dashboard%20Screenshots/Territory%20Dashboard.png)
 
-Top Performing Territories
+### Visualizations
 
-Regional Revenue Trend
+- Revenue by Country
+- Top Performing Territories
+- Regional Sales Trend
 
-### Key Insight
+### Insights
 
-North America generated approximately 66% of total revenue.
+- North America generated approximately **66%** of total revenue.
+- Southwest was the highest-performing sales territory.
+- European markets have significant growth potential.
 
-Southwest was the highest-performing territory.
-
-(Add screenshot)
 
 ## Product Performance
 
+### Dashboard Preview
+
+![Product Dashboard](Dashboard%20Screenshots/Product%20Dashboard.png)
+
 ### Visualizations
 
-Revenue by Product Category
+- Revenue by Product Category
+- Top 10 Products
+- Category Performance
 
-Top 10 Products
+### Insights
 
-Category Performance
+- Bikes generated the majority of company revenue.
+- Accessories and Clothing contribute significantly less revenue.
+- Cross-selling opportunities exist for accessory products.
 
-### Key Insight
-
-Bikes generated the majority of company revenue.
-
-Accessories and Clothing present opportunities for cross-selling.
-
-(Add screenshot)
 
 ## Salesperson Performance
 
+### Dashboard Preview
+
+![Salesperson Dashboard](Dashboard%20Screenshots/Salesperson%20Dashboard.png)
+
 ### Visualizations
 
-Revenue by Salesperson
+- Revenue by Salesperson
+- Sales Quota vs Actual Revenue
+- Sales Summary Table
 
-Quota vs Actual Revenue
+### Insights
 
-Sales Summary Table
+- Several sales representatives exceeded their assigned quotas.
+- High-performing representatives consistently generated larger sales values.
 
-### Key Insight
-
-Several sales representatives exceeded their assigned quotas.
-
-(Add screenshot)
 
 ## Trend Analysis
 
+### Dashboard Preview
+
+![Trend Dashboard](Dashboard%20Screenshots/Trends%20Dashboard.png)
+
 ### Visualizations
 
-Yearly Revenue
+- Yearly Revenue Trend
+- Revenue vs Quantity Scatter Plot
+- Interactive Filters
 
-Revenue vs Quantity Scatter Plot
+### Insights
 
-Interactive Filters
+- Revenue increased consistently between 2011 and 2013.
+- 2014 contains partial-year data (January–June).
 
-(Add screenshot)
 
-## Key Business Insights
+# Key Business Insights
 
-✔ Revenue reached approximately **$123.2M**
+- Revenue exceeded **$123 Million** during the analysis period.
+- Revenue grew steadily from **2011 to 2013**.
+- Bikes were the company's largest revenue contributor.
+- North America remained the strongest-performing region.
+- Online orders accounted for most transactions.
+- Sales representatives generated higher-value purchases than online sales.
+- Several territories present opportunities for future expansion.
 
-✔ Revenue increased consistently between **2011–2013**
 
-✔ Average Order Value was approximately **$3,916**
+# Business Recommendations
 
-✔ Online orders represented the majority of transactions
+- Increase salesperson quotas based on current performance.
+- Expand marketing efforts in European markets.
+- Promote accessories through product bundles.
+- Improve online upselling strategies.
+- Continue investing in high-performing territories.
 
-✔ Sales representatives generated higher-value purchases
 
-✔ Bikes accounted for the majority of sales revenue
+# Skills Demonstrated
 
-✔ North America remained the strongest market
+- Data Cleaning
+- Data Transformation
+- Power Query
+- Data Modeling
+- DAX Calculations
+- Dashboard Design
+- KPI Development
+- Business Intelligence
+- Data Visualization
+- Data Storytelling
 
-## Recommendations
-Increase salesperson quotas.
+# Repository Structure
 
-Expand marketing efforts in European markets.
+```
+AdventureWorks-Sales-Analysis-Dashboard
+│
+├── Dashboard Screenshots
+│   ├── Sales Dashboard.png
+│   ├── Territory Dashboard.png
+│   ├── Product Dashboard.png
+│   ├── Salesperson Dashboard.png
+│   └── Trends Dashboard.png
+│
+├── Dataset
+│
+├── Power BI
+│   └── AdventureWorks.pbix
+│
+├── Report
+│   └── AdventureWorks_Analysis.pdf
+│
+└── README.md
+```
 
-Bundle accessories with bicycle purchases.
+---
 
-Improve online upselling strategies.
+# Full Report
 
-Continue investing in high-performing territories.
+You can read the complete business analysis report here:
 
-## Skills Demonstrated
-Data Cleaning
+ [AdventureWorks Business Analysis Report](Report/AdventureWorks_Analysis.pdf)
 
-Data Modeling
+---
 
-DAX
+# Author
 
-Power Query
+**Omotola Amuda**
 
-Dashboard Design
-
-Business Intelligence
-
-Data Storytelling
-
-KPI Development
-
-Interactive Reporting
-
-## Future Improvements
-Add forecasting
-
-Customer segmentation
-
-Profitability analysis
-
-Inventory optimization
-
-Customer lifetime value
+- GitHub: https://github.com/omotolaamuda-DA
+- LinkedIn: *(Add your LinkedIn profile here)*
