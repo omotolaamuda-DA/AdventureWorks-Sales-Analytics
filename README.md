@@ -181,6 +181,7 @@ You can read the complete business analysis report here:
 
 **Omotola Amuda**
 
-- GitHub: https://github.com/omotolaamuda-DA
-- LinkedIn:(https://www.linkedin.com/in/omotolaamuda?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- Gmail: [omotolaamuda@gmail.com](url)
+- 💼 **LinkedIn:** [Amuda Omotola](https://www.linkedin.com/in/omotolaamuda?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 💻 **GitHub:** [omotolaamuda-DA](https://github.com/omotolaamuda-DA)
+- 📧 **Email:** omotolaamuda@gmail.com[](url)
+
